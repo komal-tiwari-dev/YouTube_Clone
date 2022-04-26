@@ -1,10 +1,10 @@
 
-const api = "AIzaSyCkMk2SUfDnsZ6dUrJocimk_B-OslV5OyA";
+const api = "yourapikey";
 
 const displayHomevid = async () => {
   try {
     const homeapi = await fetch(
-      `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=32&regionCode=IN&key=${api}`
+      `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=32&regionCode=IN&key=${Your_Api}`
     );
     const data = await homeapi.json();
     console.log(data.items);
