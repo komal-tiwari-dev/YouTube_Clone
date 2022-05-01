@@ -1,5 +1,5 @@
 
-const api = "yourapikey";
+const api = "Youtube Api Key";
 
 const displayHomevid = async () => {
   try {
