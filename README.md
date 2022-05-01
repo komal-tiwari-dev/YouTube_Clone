@@ -12,3 +12,16 @@ Some Key Features Added:-
 5) By Clicking on Home And Youtube Logo Image Will Redireted to Home Page.
 
 Note:Some Videos Might Be Not Available Because Of Free Api And Restriction by Video Owner Mostly With Shorts
+
+Snippets:
+1) Home Page:-
+![Home page](Image/Home.png)
+
+2)Home Page 2:-
+![Home page 2](Image/Home%202.png)
+
+3)Search Page:-
+![Search page](Image/Search.png)
+
+4)Search Result Page Video:-
+![Search Result page](Image/Search%20Play%20Video.png)
